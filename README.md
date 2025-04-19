@@ -6,7 +6,7 @@
 1. Explore the raw data
 2. Clean the raw data
 3. Explore trends in clean data
-4. Select, encode and scale features,
+4. Select, engineer, encode and scale features,
 5. Train and test regression models
 
 # Each jupyter notebook runs one of the steps mentioned before. The notebooks need to be run in the order they are numbered:
