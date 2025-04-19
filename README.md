@@ -1,4 +1,4 @@
-<img style="float: right;" src="img/openhouse_logo.png" width="200" height="200"/><br>
+<img style="float: right;" src="img/openhouse_logo.png" width="200" height="100"/><br>
 # <center> <ins> Data Pipeline for Real Estate Sale Price Prediction <ins> </center>
 ### <center>by: Daniel Lachner-Piza, PhD <br> for: OpenHouse.ai </center>
 
